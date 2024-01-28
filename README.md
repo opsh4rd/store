@@ -27,7 +27,6 @@
 bash
 git clone https://github.com/opsh4rd/store
 
-pip install -r requirements.txt
 
 ### Настройка
 
