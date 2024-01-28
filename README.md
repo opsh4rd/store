@@ -25,7 +25,7 @@
 
 Для запуска проекта на локальной машине выполните:
 bash
-git clone https://github.com/opsh4rd/Fashion_Trend-django
+git clone https://github.com/opsh4rd/store
 
 pip install -r requirements.txt
 
